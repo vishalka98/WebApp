@@ -1,0 +1,32 @@
+.main{
+		width: 500px;
+		height: 180px;
+		background-color: #e91e63; 
+		padding-top: 100px;
+	}
+	.tbl{
+		width: 90%;
+		height: 50%;
+		margin: 0 0 0 70px;
+	}
+	.lbl{
+		font-family: tahoma;
+		font-size: 14px;
+		color: white;
+		width: 60px;
+	}
+	.txt{
+		width: 300px;
+		height: 25px;
+		border: 1px solid #ffffff;
+	}
+	.btn{
+		width: 120px;
+		height: 30px;
+		background-color: #ffff00;
+		border: 1px solid #ff0000;
+	}
+	.cn{
+		width: 300px; height: 33px; border: 1px solid #ffffff; background-color: #167fe6;border-radius: 10px;font-family: tahoma;font-size: 15px;color: #ffffff;padding-top: 15px;font-weight: bold;margin-top: 20px;
+	}
+        
